@@ -15,7 +15,32 @@ Customizing Copilot: Tips and tricks for customizing Copilot's behavior to align
 # Labs
 These demos provide a comprehensive overview of GitHub Copilot's capabilities, catering to developers with varying levels of experience.
 
-## Prerequests
+## Labs Prerequisites
+Before getting started with GitHub Copilot in Visual Studio Code, make sure you have completed the following prerequisites to ensure a smooth experience:
+
+### 1. Install Visual Studio Code
+- Download and install Visual Studio Code from the [official website](https://code.visualstudio.com/).
+
+### 2. Create a GitHub Account
+- If you don't already have one, sign up for a GitHub account at [github.com](https://github.com/).
+
+### 3. Get GitHub Copilot
+- Install the GitHub Copilot extensions in Visual Studio Code from the [Visual Studio Code Marketplace](https://marketplace.visualstudio.com/).
+  - GitHub Copilot v1.143.0 or higher
+  - GitHub Copilot Chat v0.12.2023120701 or higher
+
+### 4. Connect Visual Studio Code to GitHub
+- Sign in to your GitHub account within Visual Studio Code to enable GitHub Copilot's features.
+
+### 5. Access to a Repository
+- Ensure that you have access to the GitHub repository you plan to work on. Clone it locally if necessary.
+
+### 6. Stable Internet
+- Ensure a stable internet connection as GitHub Copilot relies on cloud-based services for code suggestions and completions.
+
+### 7. Optional Extensions
+- Depending on your specific project requirements, you may need to install additional Visual Studio Code extensions for languages, frameworks, or tools that are not covered by GitHub Copilot.
+
 ## Convert Legacy C to Python
 - This is a walkthrough using Copilot for efficient C to Python code conversion, unit test creation, documentation, commit message generation, and performt efficiency and performance optimizations.
 
