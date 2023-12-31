@@ -9,3 +9,8 @@ Code Refactoring Examples: Learn how to leverage Copilot to refactor and improve
 - Advanced AI-Powered Projects. Dive into advanced projects that demonstrate Copilot's ability to assist in complex tasks such as machine learning, natural language processing, and data analysis.
 - Collaborative Workflows. Discover how Copilot can enhance collaboration by suggesting code in real-time during pair programming sessions or team projects.
 Customizing Copilot: Tips and tricks for customizing Copilot's behavior to align with your coding style and project-specific requirements.
+
+# Labs
+These demos provide a comprehensive overview of GitHub Copilot's capabilities, catering to developers with varying levels of experience.
+
+## ConvertLegacyCtoPyton
