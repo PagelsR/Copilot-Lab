@@ -16,7 +16,7 @@ This demo shows how Copilot can be used to convert C code to Python, generate un
 
 ### Video of Walkthrough
 
-This video shows the entire walkthrough, (VIDEO FILE GOES HERE)
+This video shows the entire walkthrough, ![Alt text](DemoWalkthrough.mp4)
 
 Demo 1 - Explain application
 ----------------------------
