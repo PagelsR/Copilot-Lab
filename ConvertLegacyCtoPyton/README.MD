@@ -14,7 +14,7 @@ This is a walkthrough using Copilot for efficient C to Python code conversion, u
 
 This demo shows how Copilot can be used to convert C code to Python, generate unit tests, document unit tests, and generate a commit message.
 
-### Recorded Walkthrough
+### Video of Walkthrough
 
 This video shows the entire walkthrough, (VIDEO FILE GOES HERE)
 
