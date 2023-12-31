@@ -140,5 +140,5 @@ Speaker
 - Click button **Commit and Push**
 
 ### References
-#### This example is based on the work of Asad Zia located https://github.com/asadzia/Air-Traffic-Control
-#### The voice Aria is used from Azure AI Speech Service https://azure.microsoft.com/en-us/products/ai-services/ai-speech
+- This example is based on the work of Asad Zia located https://github.com/asadzia/Air-Traffic-Control
+- The voice Aria is used from Azure AI Speech Service https://azure.microsoft.com/en-us/products/ai-services/ai-speech
