@@ -18,10 +18,10 @@ These demos provide a comprehensive overview of GitHub Copilot's capabilities, c
 ## Labs Prerequisites
 Before getting started with GitHub Copilot in Visual Studio Code, make sure you have completed the following prerequisites to ensure a smooth experience:
 
-### 1. Install Visual Studio Code
+#### 1. Install Visual Studio Code
 - Download and install Visual Studio Code from the [official website](https://code.visualstudio.com/).
 
-### 2. Create a GitHub Account
+#### 2. Create a GitHub Account
 - If you don't already have one, sign up for a GitHub account at [github.com](https://github.com/).
 
 ### 3. Get GitHub Copilot
