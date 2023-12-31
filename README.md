@@ -13,7 +13,7 @@ Customizing Copilot: Tips and tricks for customizing Copilot's behavior to align
 # Labs
 These demos provide a comprehensive overview of GitHub Copilot's capabilities, catering to developers with varying levels of experience.
 
-## ConvertLegacyCtoPyton
+## Convert Legacy C to Python
 - This is a walkthrough using Copilot for efficient C to Python code conversion, unit test creation, documentation, commit message generation, and performt efficiency and performance optimizations.
 
 ## TBD
