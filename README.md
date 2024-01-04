@@ -41,11 +41,11 @@ Before getting started with GitHub Copilot in Visual Studio Code, make sure you 
 ### 7. Optional Extensions
 - Depending on your specific project requirements, you may need to install additional Visual Studio Code extensions for languages, frameworks, or tools that are not covered by GitHub Copilot.
 
-# Lab 1 - Convert Legacy C to Python
-- This is a walkthrough using Copilot for efficient C to Python code conversion, unit test creation, documentation, commit message generation, and performt efficiency and performance optimizations.
+# Lab 1 - Create an API Project from scratch
+- An example API project written using C#. This code is setting up the basic structure for an API project.
 
-# Lab 2 - 
-- TBD
+# Lab 2 - Convert Legacy C to Python with unit tests
+- This is a walkthrough using Copilot for efficient C to Python code conversion, unit test creation, documentation, commit message generation, and performt efficiency and performance optimizations.
 
 # Lab 3 - 
 - TBD
